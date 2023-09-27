@@ -1,0 +1,11 @@
+C:\Users\kevin\Documents\programacion 3\practica form windows\practica form\LOGICA\bin\Debug\LOGICA.dll
+C:\Users\kevin\Documents\programacion 3\practica form windows\practica form\LOGICA\bin\Debug\LOGICA.pdb
+C:\Users\kevin\Documents\programacion 3\practica form windows\practica form\LOGICA\bin\Debug\DATOS.dll
+C:\Users\kevin\Documents\programacion 3\practica form windows\practica form\LOGICA\bin\Debug\ENTIDAD.dll
+C:\Users\kevin\Documents\programacion 3\practica form windows\practica form\LOGICA\bin\Debug\DATOS.pdb
+C:\Users\kevin\Documents\programacion 3\practica form windows\practica form\LOGICA\bin\Debug\ENTIDAD.pdb
+C:\Users\kevin\Documents\programacion 3\practica form windows\practica form\LOGICA\obj\Debug\LOGICA.csproj.AssemblyReference.cache
+C:\Users\kevin\Documents\programacion 3\practica form windows\practica form\LOGICA\obj\Debug\LOGICA.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\programacion 3\practica form windows\practica form\LOGICA\obj\Debug\LOGICA.csproj.CopyComplete
+C:\Users\kevin\Documents\programacion 3\practica form windows\practica form\LOGICA\obj\Debug\LOGICA.dll
+C:\Users\kevin\Documents\programacion 3\practica form windows\practica form\LOGICA\obj\Debug\LOGICA.pdb
