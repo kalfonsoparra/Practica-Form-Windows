@@ -3,10 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ENTIDAD;
+using DATOS;
 
 namespace LOGICA
 {
-    public class Class1
+    public class Servicio
     {
     }
 }

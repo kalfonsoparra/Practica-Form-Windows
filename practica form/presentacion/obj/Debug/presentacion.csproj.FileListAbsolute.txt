@@ -6,10 +6,10 @@ C:\Users\kevin\Documents\programacion 3\practica form windows\practica form\pres
 C:\Users\kevin\Documents\programacion 3\practica form windows\practica form\presentacion\bin\Debug\ENTIDAD.pdb
 C:\Users\kevin\Documents\programacion 3\practica form windows\practica form\presentacion\bin\Debug\LOGICA.pdb
 C:\Users\kevin\Documents\programacion 3\practica form windows\practica form\presentacion\obj\Debug\presentacion.csproj.AssemblyReference.cache
-C:\Users\kevin\Documents\programacion 3\practica form windows\practica form\presentacion\obj\Debug\presentacion.Form1.resources
 C:\Users\kevin\Documents\programacion 3\practica form windows\practica form\presentacion\obj\Debug\presentacion.Properties.Resources.resources
 C:\Users\kevin\Documents\programacion 3\practica form windows\practica form\presentacion\obj\Debug\presentacion.csproj.GenerateResource.cache
 C:\Users\kevin\Documents\programacion 3\practica form windows\practica form\presentacion\obj\Debug\presentacion.csproj.CoreCompileInputs.cache
 C:\Users\kevin\Documents\programacion 3\practica form windows\practica form\presentacion\obj\Debug\presentacion.csproj.CopyComplete
 C:\Users\kevin\Documents\programacion 3\practica form windows\practica form\presentacion\obj\Debug\presentacion.exe
 C:\Users\kevin\Documents\programacion 3\practica form windows\practica form\presentacion\obj\Debug\presentacion.pdb
+C:\Users\kevin\Documents\programacion 3\practica form windows\practica form\presentacion\obj\Debug\presentacion.WedPage.resources

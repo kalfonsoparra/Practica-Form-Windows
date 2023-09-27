@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ENTIDAD
 {
-    public class Class1
+    public class Objeto
     {
     }
 }
